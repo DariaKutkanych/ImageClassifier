@@ -1,0 +1,13 @@
+version : '3'
+
+services:
+  app:
+    image: dashakutkanych/img_classifier
+    container_name: img_classifier
+    ports:
+      - "5000:5000"   
+    build: 
+      dockerfile: Dockerfile
+ 
+
+

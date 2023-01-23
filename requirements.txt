@@ -1,0 +1,10 @@
+flask
+Flask-Dropzone==1.6.0
+gunicorn
+numpy
+pillow
+protobuf==3.20.*
+pydrive
+sqlalchemy
+https://tf.novaal.de/westmere/tensorflow-2.8.0-cp310-cp310-linux_x86_64.whl
+werkzeug
